@@ -27,3 +27,5 @@ This project performs ETL (Extract, Transform, Load) on the Iris dataset using P
 
 ## Output
 - Processed CSV: `iris_cleaned.csv`
+- #OUTPUT
+- <img width="1397" height="682" alt="Image" src="https://github.com/user-attachments/assets/a229dea0-60da-4e96-a7d1-ae9dd04b278f" />
