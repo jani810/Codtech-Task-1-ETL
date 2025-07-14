@@ -1,4 +1,3 @@
-# Codtech-Task-1-ETL and PYTHON(pandas,Scikit-learn)
 # Codtech-Task-1-ETL  
 # COMPANY: CODTECH IT SOLUTIONS  
 # NAME: BHUKYA JANI  
