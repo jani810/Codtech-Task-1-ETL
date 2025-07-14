@@ -1,5 +1,4 @@
-# Codtech-Task-1-ETL
-Full ETL Process Using the ETL and PYTHON(pandas,Scikit-learn)
+# Codtech-Task-1-ETL and PYTHON(pandas,Scikit-learn)
 COMPANY: CODTECH IT SOLUTIONS
 NAME: BHUKYA JANI
 INTERN ID: CT04DH2696
